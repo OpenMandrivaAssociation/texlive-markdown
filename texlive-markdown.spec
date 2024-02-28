@@ -1,5 +1,5 @@
 Name:		texlive-markdown
-Version:	66954
+Version:	70117
 Release:	1
 Summary:	A package for converting and rendering markdown documents inside TeX
 Group:		Publishing
