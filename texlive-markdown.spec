@@ -3,7 +3,7 @@ Version:	70117
 Release:	1
 Summary:	A package for converting and rendering markdown documents inside TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/markdown
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/markdown
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/markdown.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/markdown.doc.r%{version}.tar.xz
